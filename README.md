@@ -6,10 +6,11 @@ https://www.youtube.com/watch?v=gJU31hNhqOw
 ``` shell
 Install from windows store:
 https://aka.ms/windowsterminal
+```
 
-If you can't then you can install via choco
+If you can't install with Windows store then you can install via choco
+``` shell
 choco install microsoft-windows-terminal
-
 ```
 
 ## Settings
